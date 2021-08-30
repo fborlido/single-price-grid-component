@@ -35,7 +35,7 @@ Here are the screenshots of my solution:
 
 ### Links
 
-[Live Site URL](https://fborlido.github.io/fm-single-price-grid-component/)
+[Live Site URL](https://fborlido.github.io/single-price-grid-component/)
 
 ## My process
 
